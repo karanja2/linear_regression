@@ -1,5 +1,5 @@
 ### Linear Regression
-##Overview
+## Overview
 This repository contains a Jupyter Notebook that performs linear regression on a dataset. The goal of this analysis is to build a model that predicts the target variable based on one or multiple independent variables.
 
 ##Requirements
